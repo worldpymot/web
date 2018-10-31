@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-# https://pymot.netlify.com/* https://pymot.com/:splat 301!
