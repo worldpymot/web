@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/UI Elements/X/2 Slim</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18,17.8284271 L8.80761184,27.0208153 L5.97918472,24.1923882 L15.1715729,15 L5.97918472,5.80761184 L8.80761184,2.97918472 L18,12.1715729 L27.1923882,2.97918472 L30.0208153,5.80761184 L20.8284271,15 L30.0208153,24.1923882 L27.1923882,27.0208153 L18,17.8284271 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Banner/3-768/1-Header-Urgency" transform="translate(-720.000000, -18.000000)">
+            <g id="Icon/UI-Elements/X/2-Slim" transform="translate(714.000000, 15.000000)">
+                <g>
+                    <rect id="Block" x="0" y="0" width="36" height="30"></rect>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g id="1-Color/2-ADT-Blue" mask="url(#mask-2)" fill="#045EB5">
+                        <polygon id="#045EB5" points="0 0 36 0 36 30 0 30"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
