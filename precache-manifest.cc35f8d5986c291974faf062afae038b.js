@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "495e9abc2e29aff99e4c04da9a4df833",
-    "url": "./static/media/icon-checkmark-orange.495e9abc.svg"
+    "revision": "a9221451246a935e1c62e6a6b4e45241",
+    "url": "./static/media/icon-checkmark-green.a9221451.svg"
   },
   {
     "revision": "443b9da001648ebfb554",
@@ -136,12 +136,12 @@ self.__precacheManifest = [
     "url": "./static/js/main.443b9da0.chunk.js"
   },
   {
-    "revision": "a9221451246a935e1c62e6a6b4e45241",
-    "url": "./static/media/icon-checkmark-green.a9221451.svg"
-  },
-  {
     "revision": "7d7fbcf60127993f7a8af581bee219b9",
     "url": "./static/media/icon-close-red.7d7fbcf6.svg"
+  },
+  {
+    "revision": "495e9abc2e29aff99e4c04da9a4df833",
+    "url": "./static/media/icon-checkmark-orange.495e9abc.svg"
   },
   {
     "revision": "7eebc2274992c9142c7eb36fb34705e0",
@@ -164,28 +164,32 @@ self.__precacheManifest = [
     "url": "./static/media/Roboto-Medium.b672b006.woff2"
   },
   {
-    "revision": "0702bd9a1c1f985a8de171dc667ace07",
-    "url": "./static/media/Roboto-Thin.0702bd9a.woff2"
-  },
-  {
     "revision": "169f859d8ea065ef6e0d93991d3cfc0b",
     "url": "./static/media/Roboto-Regular.169f859d.woff2"
   },
   {
-    "revision": "2441b7353ecd4283016ca52beb668b87",
-    "url": "./static/media/Roboto-Bold.2441b735.woff"
+    "revision": "0702bd9a1c1f985a8de171dc667ace07",
+    "url": "./static/media/Roboto-Thin.0702bd9a.woff2"
+  },
+  {
+    "revision": "f0fc08d0d724e9ba07ff0ff17a4cff9e",
+    "url": "./static/media/equipment.f0fc08d0.jpg"
   },
   {
     "revision": "136be72fc34ac2a9fa33a50a47ef45f0",
     "url": "./static/media/Roboto-Black.136be72f.woff"
   },
   {
-    "revision": "b61610954da347af21d44b15f2fe33e6",
-    "url": "./static/media/Roboto-Medium.b6161095.woff"
+    "revision": "2441b7353ecd4283016ca52beb668b87",
+    "url": "./static/media/Roboto-Bold.2441b735.woff"
   },
   {
     "revision": "75b70550ac675e0bb0f01bec11282bf0",
     "url": "./static/media/Roboto-Light.75b70550.woff"
+  },
+  {
+    "revision": "b61610954da347af21d44b15f2fe33e6",
+    "url": "./static/media/Roboto-Medium.b6161095.woff"
   },
   {
     "revision": "7e3060c9d19c5fd1c4cf488c2f21efbe",
@@ -194,10 +198,6 @@ self.__precacheManifest = [
   {
     "revision": "6db0c1c28725437cb35384efa664349c",
     "url": "./static/media/Roboto-Thin.6db0c1c2.woff"
-  },
-  {
-    "revision": "f0fc08d0d724e9ba07ff0ff17a4cff9e",
-    "url": "./static/media/equipment.f0fc08d0.jpg"
   },
   {
     "revision": "7cb080960220780abba6a6dfba240577",
@@ -214,6 +214,10 @@ self.__precacheManifest = [
   {
     "revision": "354259a05b8bcc17b340833d1b68042c",
     "url": "./static/media/background-pymot-sales-agent.354259a0.jpg"
+  },
+  {
+    "revision": "19730a60083b376585b4a2e6203007e8",
+    "url": "./static/media/home-automation-appliances.19730a60.jpg"
   },
   {
     "revision": "f3fa86edfc2b810bf7a3ea7cf010d292",
@@ -240,27 +244,23 @@ self.__precacheManifest = [
     "url": "./static/media/Roboto-Thin.94998475.ttf"
   },
   {
-    "revision": "19730a60083b376585b4a2e6203007e8",
-    "url": "./static/media/home-automation-appliances.19730a60.jpg"
-  },
-  {
     "revision": "9c0c7d396b13c617b61fe0e954d0af66",
     "url": "./static/media/news-banner.9c0c7d39.jpg"
-  },
-  {
-    "revision": "7d3a69a92b6ee350ff295cccd4c1fa03",
-    "url": "./static/media/home-automation-network.7d3a69a9.jpg"
   },
   {
     "revision": "bb7dd3fef2bfad40004d2a0b8584b19a",
     "url": "./static/media/contactus-banner.bb7dd3fe.jpg"
   },
   {
+    "revision": "7d3a69a92b6ee350ff295cccd4c1fa03",
+    "url": "./static/media/home-automation-network.7d3a69a9.jpg"
+  },
+  {
     "revision": "e1bcf2ae2e843f06fe7ab7a18f171f6d",
     "url": "./static/media/background-offer-section.e1bcf2ae.jpg"
   },
   {
-    "revision": "0cf09e926ae55383386fc183b15f1768",
+    "revision": "5cdd480ee546dd5f4a3a27178e8dd065",
     "url": "./index.html"
   }
 ];
